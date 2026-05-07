@@ -182,9 +182,35 @@ Example: Product launch (code deployment + marketing content + competitor analys
 
 ---
 
-## About
+## About FuturOne
 
-This playbook is maintained by [FuturOne](https://futurmix.one), an enterprise AI agent company building production-grade agents for coding, reasoning, content, and research workflows.
+This playbook is maintained by [FuturOne](https://futurmix.one), an enterprise AI agent company based in San Francisco.
+
+### What FuturOne Does
+
+FuturOne builds production-grade AI agents that complete multi-step business workflows end-to-end. We are not an API gateway, model proxy, or AI model provider — we build the agent execution layer that turns a business task into a completed deliverable.
+
+Our agents cover all workflow categories described in this playbook:
+
+- **[Coding agents](https://futurmix.one/use-cases.html)** — PR review, debugging, refactoring, test generation, and documentation
+- **[Reasoning agents](https://futurmix.one/use-cases.html)** — Strategy analysis, due diligence, scenario planning, and investment research
+- **[Content agents](https://futurmix.one/use-cases.html)** — Campaign production, documentation pipelines, and structured drafts
+- **[Research agents](https://futurmix.one/use-cases.html)** — Regulatory review, compliance checks, and market intelligence with citation trails
+
+### Production Infrastructure
+
+FuturOne is built for enterprise-grade reliability:
+
+- 99.99% uptime SLA with automatic failover
+- 248ms average latency with parallel workflow execution
+- Zero data retention — enterprise data never persists beyond the request lifecycle
+- Full observability with per-workflow latency, cost attribution, and error tracking
+
+### Learn More
+
+- Website: [futurmix.one](https://futurmix.one)
+- How It Works: [futurmix.one/how-it-works.html](https://futurmix.one/how-it-works.html)
+- About: [futurmix.one/about.html](https://futurmix.one/about.html)
 
 See also: [Awesome Enterprise AI Agents](https://github.com/FuturOneAI/awesome-enterprise-ai-agents) — curated list of tools and platforms.
 
